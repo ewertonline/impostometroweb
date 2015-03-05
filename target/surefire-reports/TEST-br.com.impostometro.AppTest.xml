@@ -43,7 +43,7 @@
     <property name="java.vm.specification.version" value="1.8"/>
     <property name="sun.arch.data.model" value="32"/>
     <property name="java.home" value="C:\Program Files\Java\jdk1.8.0_31\jre"/>
-    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher tomcat7:deploy"/>
+    <property name="sun.java.command" value="org.codehaus.plexus.classworlds.launcher.Launcher deploy"/>
     <property name="java.specification.vendor" value="Oracle Corporation"/>
     <property name="user.language" value="pt"/>
     <property name="awt.toolkit" value="sun.awt.windows.WToolkit"/>
@@ -62,6 +62,6 @@
     <property name="sun.desktop" value="windows"/>
     <property name="sun.cpu.isalist" value="pentium_pro+mmx pentium_pro pentium+mmx pentium i486 i386 i86"/>
   </properties>
-  <testcase classname="br.com.impostometro.AppTest" name="testAppErro" time="0.004"/>
-  <testcase classname="br.com.impostometro.AppTest" name="testApp" time="0"/>
+  <testcase classname="br.com.impostometro.AppTest" name="testApp" time="0.004"/>
+  <testcase classname="br.com.impostometro.AppTest" name="testAppErro" time="0"/>
 </testsuite>
