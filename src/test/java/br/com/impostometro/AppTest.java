@@ -38,6 +38,6 @@ public class AppTest
     
     public void testAppErro()
     {
-        assertTrue( false );
+        assertTrue( false )
     }
 }
